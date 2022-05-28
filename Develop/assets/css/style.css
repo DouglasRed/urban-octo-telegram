@@ -128,3 +128,6 @@ p {
 .footer h2 {
   font-size: 20px;
 }
+
+git config --global init.defaultBranch main
+git init
