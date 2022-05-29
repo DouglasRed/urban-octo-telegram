@@ -22,9 +22,9 @@ body {
   font-size: 48px;
 }
 
-/* .header h1 .seo {
-    color: #d9dcd6;
-} */
+.seo {
+  color: #d9dcd6;
+}
 
 .header nav {
   padding-top: 15px;
